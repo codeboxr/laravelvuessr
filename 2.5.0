@@ -1,0 +1,4 @@
++ vue-server-renderer@2.6.14
+added 9 packages from 46 contributors and audited 1133 packages in 29.001s
+found 7 vulnerabilities (4 moderate, 3 high)
+  run `npm audit fix` to fix them, or `npm audit` for details
